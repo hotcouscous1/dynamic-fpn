@@ -6,7 +6,7 @@
 
 The parameters of fpn must be given independently from the backbone.  
   
-Dynamic-FPNs are free from
+Dynamic FPNs are free from
 - the number and channels of pyramid-levels
 - the size of input image, to decide each level's feature map size 
 - the strides between feature maps  
